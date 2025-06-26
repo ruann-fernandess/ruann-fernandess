@@ -117,25 +117,21 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
-<br/>
-<br/>
 
----
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" Add commentMore actions
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ruann-fernandess&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruann-fernandess&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruann-fernandess&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
