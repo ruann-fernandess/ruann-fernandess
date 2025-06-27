@@ -125,6 +125,8 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
 
 <h3 align="center">📞 Contatos</h3>
 
+---
+
 <p align="center">
       <a href="https://www.instagram.com/ruann_fernandess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:contatoruanfernandes1242770@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
