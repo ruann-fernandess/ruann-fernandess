@@ -8,15 +8,6 @@ Tenho interesse especial em desenvolvimento back-end, além de experiência com 
 
 Estou aberto a networking, parcerias em projetos ou apenas tomar um café. 
 
-<br/>
-<br/>
-
-<p align="center">
-      <a href="https://www.instagram.com/rafaaseara_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:contatorafaseara257@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/rafaella-seara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
- 
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -127,4 +118,15 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruann-fernandess&theme=nord&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
+
+<br/>
+<br/>
+
+<h3 align="center">📞 Contatos</h3>
+
+<p align="center">
+      <a href="https://www.instagram.com/rafaaseara_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:contatorafaseara257@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/rafaella-seara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
