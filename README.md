@@ -123,15 +123,16 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px;">
+<p>
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    style="padding-left: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ruann-fernandess&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruann-fernandess&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruann-fernandess&theme=nord&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</p>
