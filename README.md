@@ -123,9 +123,9 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
 <br/>
 <br/>
 
-<h3 align="center">📞 Contatos</h3>
-
 ---
+
+<h3 align="center">📞 Contatos</h3>
 
 <p align="center">
       <a href="https://www.instagram.com/ruann_fernandess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
