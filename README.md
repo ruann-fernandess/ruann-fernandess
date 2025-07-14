@@ -62,6 +62,22 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#/"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dotnet" 
+    title="Dotnet"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -100,6 +116,7 @@ Estou aberto a networking, parcerias em projetos ou apenas tomar um café.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
+
 
 <br/>
 <br/>
