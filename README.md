@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Bem-vindo(a)! Sou Ruan Fernandes Mendonça, estudante da FATEC Praia Grande, atualmente no 5º ciclo do curso de Análise e Desenvolvimento de Sistemas. Nascido na capital paulista e criado em Praia Grande - SP, nos últimos anos venho mergulhando no mundo da tecnologia e ganhado muito interesse na área de desenvolvimento.
+Bem-vindo(a)! Sou Ruan Fernandes Mendonça, estudante da FATEC Praia Grande, atualmente cursando Análise e Desenvolvimento de Sistemas. Nascido na capital paulista e criado em Praia Grande - SP, nos últimos anos venho mergulhando no mundo da tecnologia e ganhado muito interesse na área de desenvolvimento.
 
 Tenho interesse especial em desenvolvimento back-end, além de experiência com bancos de dados relacionais, versionamento com Git e fundamentos de front-end. Busco oportunidades para aplicar meus conhecimentos em projetos colaborativos, contribuir para soluções reais e continuar aprendendo com pessoas experientes da área.
 
